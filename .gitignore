@@ -27,3 +27,4 @@ config/secrets.yml
 # RubyMine custom files
 /.idea
 atlassian-ide-plugin.xml
+projectFilesBackup/
